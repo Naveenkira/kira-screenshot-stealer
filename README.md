@@ -27,7 +27,7 @@ Follow the steps below to install and run Kira Screenshot Stealer:
 
 sudo apt update
 
-sudo apt install python3 python3-pip -y
+sudo apt install python3-pip -y
 
 🔗 2. Clone the Repository
 
