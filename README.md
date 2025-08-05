@@ -1,4 +1,3 @@
-
 🕵️‍♂️ KIRA Screenshot Stealer
 
 A sleek, beginner-friendly Linux tool to take screenshots — built with love for cybersecurity students by Naveen.
@@ -29,7 +28,7 @@ sudo apt install python3 python3-pip -y
 
 🔗 2. Clone the Repository
 
-git clone https://github.com/YOUR_USERNAME/kira-screenshot-stealer.git
+git clone https://github.com/Naveenkira/kira-screenshot-stealer.git
 cd kira-screenshot-stealer
 
 📦 3. Create Virtual Environment (optional but recommended)
@@ -70,7 +69,7 @@ Q: It says Can't connect to display
 👨‍💻 Developed By
 
 Naveen, cybersecurity enthusiast
-GitHub: @YOUR_USERNAME
+GitHub: @Naveenkira
 ⚠️ Legal Disclaimer
 
 This tool is for educational and ethical testing purposes only. The author is not responsible for any misuse.
