@@ -21,22 +21,30 @@ A sleek, beginner-friendly Linux tool to take screenshots — built with love fo
 🛠️ Installation Guide (for Linux)
 
 Follow the steps below to install and run Kira Screenshot Stealer:
+
 🐍 1. Install Python 3 (if not installed)
 
+
 sudo apt update
+
 sudo apt install python3 python3-pip -y
 
 🔗 2. Clone the Repository
 
 git clone https://github.com/Naveenkira/kira-screenshot-stealer.git
+
 cd kira-screenshot-stealer
+
 
 📦 3. Create Virtual Environment (optional but recommended)
 
+
 python3 -m venv venv
+
 source venv/bin/activate
 
 🚀 4. Run Kira
+
 
 python3 kira.py
 
